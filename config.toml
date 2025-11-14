@@ -6,7 +6,6 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
+[duolingo]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/duolingo-language-lessons-6-54-5-release/duolingo-language-lessons-6-54-5-android-apk-download/download/?key=b1f779a6f9c6c1bff52f576e8df20d3da2a7b21f"
+build-mode = "module"
