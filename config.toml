@@ -6,13 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[duolingo]
+[com.duolingo]
 apkmirror-dlurl = "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=11246627&key=9e7eadd13e63edd247095f82d9848201003b9b6f"
 build-mode = "module"
-
-
-[Duolingo2]
 pkg = "com.duolingo"
-apkmirror_id = "duolingo-duolingo"
-version = "6.54.5"
-build-mode = "module"
